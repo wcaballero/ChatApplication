@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1065049470408",
+    "firebase_url": "https://chatapplication-203ba.firebaseio.com",
+    "project_id": "chatapplication-203ba",
+    "storage_bucket": "chatapplication-203ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065049470408:android:322c25fb7ffb2bf8",
+        "android_client_info": {
+          "package_name": "com.williamcaballero.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065049470408-spsfoqso3uj1mhv11e5uhuas2kk9mb44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.williamcaballero.chatapplication",
+            "certificate_hash": "bf7132438e0ff8a86e0c2794dc5da96534911e27"
+          }
+        },
+        {
+          "client_id": "1065049470408-360kbuffutsvk1t6vpf1e176ibe185eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh_M9QSVekyJgbbi9j3yRFyc0UL3SLpPM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065049470408-360kbuffutsvk1t6vpf1e176ibe185eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
